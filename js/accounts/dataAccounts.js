@@ -1,18 +1,11 @@
-export const dataAccounts = [
-    {
+export const dataAccounts = [{
         id: 1,
-        fullName: "Nguyễn Hoàng Gia Vĩ",
-        userName: "Giavi1302",
-        email: "nguyenhoanggiavi123@gmail.com",
-        password: "Giavi#1302",
+        fullName: "Lê Thị Yến Nhi",
+        userName: "Yennhi2004",
+        email: "yennj3101@gmail.com",
+        password: "2004Yennhi0205@",
     },
-    {
-        id: 2,
-        fullName: "Hoàng Thị Ngọc",
-        userName: "Ngoc1234",
-        email: "hoangthingoc@gmail.com",
-        password: "HoangNgoc#1007",
-    }
+
 ]
 
 export const addAccount = (user) => {
